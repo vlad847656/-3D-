@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96bb47a2-98ba-42b9-9d6c-e573612c1f45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gigacode/plans/1789557044834-cosmic-comet.plan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gigaCode/agentSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games-play.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/AssetRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/SoundSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/AnimalSpawner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MonsterSpawner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MonsterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/WeaponType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/Hotbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/FPS3DCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/FPS3DRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/IsometricRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/ParticleSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rendering/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/DayNightCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/HealthSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/BlockType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/Chunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/ChunkManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/TerrainGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/world/World.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3JPJv1PY0WQXCISKdfRsFf1Sip7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vlad2/IdeaProjects/Games-play/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ru.gigaide.plugin.marketplace.MarketplaceUrlSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96bb47a2-98ba-42b9-9d6c-e573612c1f45" name="Changes" comment="" />
+      <created>1789556999264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789556999264</updated>
+    </task>
+    <servers />
+  </component>
+</project>

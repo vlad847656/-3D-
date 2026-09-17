@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GigaCodeAgentSettings">
+    <option name="autoApproveEdits" value="true" />
+    <option name="autoApprovedCommands">
+      <list>
+        <Execute>
+          <option name="pattern" value="New-Item -ItemType Directory -Force -Path src\game,src\world,src\player,src\rendering,src\entities,src\systems,src\assets" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="cd *" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="where *" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="Get-ChildItem &quot;C:\Program Files\Java&quot; -Directory 2&gt;$null" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="winget install *" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="Get-ChildItem &quot;C:\Program Files\Eclipse Adoptium&quot; -Recurse -Filter &quot;javac.exe&quot; -ErrorAction SilentlyContinue" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="C:Program FilesEclipse Adoptiumjdk-21.0.12.101-hotspotbinjavac.exe out *" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="C:Program FilesEclipse Adoptiumjdk-21.0.12.101-hotspotbinjava.exe out *" />
+        </Execute>
+      </list>
+    </option>
+    <option name="lastAutoApproveScope" value="SESSION" />
+  </component>
+</project>
