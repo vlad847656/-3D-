@@ -7,7 +7,7 @@
 ### Способ 1: Двойной клик по `run.bat`
 ### Способ 2: Через консоль
 ```powershell
-cd C:\Users\vlad2\IdeaProjects\Games-play
+cd C:\Users\пользователь\IdeaProjects\Games-play
 .\run.bat
 ```
 
